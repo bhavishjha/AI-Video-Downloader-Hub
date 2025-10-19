@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Downloader Hub",
+  "description": "A sleek web application to download videos from Instagram and YouTube, enhanced with AI-powered title and hashtag generation using Gemini.",
+  "requestFramePermissions": []
+}
