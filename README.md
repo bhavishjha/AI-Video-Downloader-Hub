@@ -19,4 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1n7vZyICa4zxZYRR9i3aEM1
 3. Run the app:
    `npm run dev`
    
-Publish Url-https://ai.studio/apps/drive/1n7vZyICa4zxZYRR9i3aEM1cQfSMKWZd_
+Publish Url-https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221n7vZyICa4zxZYRR9i3aEM1cQfSMKWZd_%22%5D,%22action%22:%22open%22,%22userId%22:%22117471726272297565456%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
